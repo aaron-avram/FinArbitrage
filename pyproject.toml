@@ -10,7 +10,8 @@ dependencies = [
     "pytest",
     "scipy",
     "scikit-learn",
-    "yfinance"
+    "yfinance",
+    "matplotlib"
 ]
 
 [tool.setuptools]
